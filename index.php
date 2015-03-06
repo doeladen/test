@@ -8,6 +8,5 @@
   echo "Commat-commit ketiga";
   //Aden edit
 
-  echo "Commat-commit keempat";
-  //Aden edit
+  //commit ke empat hapus
 ?>
